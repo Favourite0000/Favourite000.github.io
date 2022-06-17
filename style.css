@@ -1,0 +1,76 @@
+@import url(https://fonts.google.com/specimen/Lexend+Deca);
+*{
+    margin : 0;
+    padding : 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:rgb(0, 0%, 95%);
+    font-size: 15px;
+    font-family: Lexend Deca;
+    
+}
+main
+{
+    width:50%;
+    margin: auto;
+    display: flex;
+    justify-content: center; 
+    align-items : center;
+    height: 200vh;
+    font-size: 15px;
+    padding: 0 20px;
+
+
+    }
+
+    .col-h1 {
+      text-align: center;
+    }
+    
+    .col {
+      color: black;
+      text-decoration: none;
+    }
+    
+    .col:hover {
+      color: rgb(100, 165, 106);
+    }
+
+h3{
+        font-family: "Big Shoulders Display", cursive;
+        font-weight: 700;
+        padding: 30px 0;
+        color: hsl(0, 0%, 95%);
+      }
+
+.button{font-size: 95%;
+
+}    
+
+
+.div1 {background-color:rgb(31, 77%, 52%);
+    width:50%;
+    text-align: center;
+    padding: 5em;
+    display: flex;
+    flex-direction: column;
+
+}
+.div2 {background-color: rgb(184, 100%, 22%);
+    width:50%;
+    text-align: center;
+    padding: 5em;
+}
+.div3 {background-color: rgb(20, 29, 3);
+    width: 50%;
+    text-align: center;
+    padding: 5em;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+
+
